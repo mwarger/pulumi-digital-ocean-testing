@@ -11,7 +11,7 @@ Run `yarn up` to have pulumi create a stack for you.
 
 Explanation
 ---
-This serves as an example for recreating [these instructions](https://www.edgedb.com/docs/guides/deployment/digitalocean) using Pulumi. Is this a good idea? I think so? Please tell me if I'm wrong in an issue.
+This serves as an example for recreating [these instructions](https://www.edgedb.com/docs/guides/deployment/digitalocean#deploy-with-managed-postgresql) using Pulumi. Is this a good idea? I think so? Please tell me if I'm wrong in an issue.
 
 This is also a reproduction of an issue I don't understand.
 

@@ -4,8 +4,8 @@ import * as command from '@pulumi/command';
 import * as tls from '@pulumi/tls';
 const config = new pulumi.Config();
 
-// https://www.edgedb.com/docs/guides/deployment/digitalocean
 // attempting to recreate these instructions with pulumi
+// https://www.edgedb.com/docs/guides/deployment/digitalocean#deploy-with-managed-postgresql
 
 // DigitalOcean credentials are required
 // https://www.pulumi.com/registry/packages/digitalocean/installation-configuration/
