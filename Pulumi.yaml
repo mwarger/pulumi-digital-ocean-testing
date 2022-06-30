@@ -1,0 +1,3 @@
+name: pulumi-digital-ocean-testing
+runtime: nodejs
+description: A minimal DigitalOcean TypeScript Pulumi program
