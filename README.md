@@ -1,7 +1,8 @@
 Setup
 ---
-pulumi config set digitalocean:token XXXXXXXXXXXXXX --secret
-pulumi config set --secret dbPassword YOUR_PASSWORD_HERE
+`pulumi config set digitalocean:token XXXXXXXXXXXXXX --secret`
+
+`pulumi config set --secret dbPassword YOUR_PASSWORD_HERE`
 
 The above config commands should create a default dev stack for you.
 
